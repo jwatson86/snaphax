@@ -124,7 +124,7 @@
 			$result = $this->api->postCall(
 				'/bq/upload',
 				array(
-					'username' => $this->options['username'],
+					'username' => $this->options['chelsea760],
 					'timestamp' => $ts,
 					'type' => $type,
 					// 'data' => urlencode($file_data_encrypted).'; filename="file"',
